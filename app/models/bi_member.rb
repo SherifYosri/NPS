@@ -1,0 +1,3 @@
+class BiMember < User
+
+end
