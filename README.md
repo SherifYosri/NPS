@@ -9,6 +9,8 @@ Since the system depends on multiple services like Redis and Sidekiq to function
 To run spec files that are written using Rspec library, navigate to app directory and run
 * bundle exec rspec spec
 
+For the sake of ease trying the application, I seed the db with some records which isn't necessary if this was a real application.
+
 # Notes about use case "C" (the endpoint that returns feedbacks data)
 * The endpoint should send an email to the BI team member who requests the data, but since I'm using the free plan in Mailgun service email recipient has to be added first on my Mailgun account to recieve emails.
 
