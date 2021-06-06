@@ -16,3 +16,4 @@ To run spec files that are written using Rspec library, navigate to app director
 
 # API docs
 You can find detailed docs for the the implemented endpoints at this link
+https://nps.stoplight.io/docs/net-promoter-score/reference/Net-Promoter-Score.yaml
